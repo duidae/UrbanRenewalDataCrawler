@@ -1,2 +1,2 @@
 # UrbanRenewalDataCrawler
-Urban Renewal Data Crawler
+Urban Renewal Data Crawler for urban renewal map
